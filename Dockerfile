@@ -6,4 +6,4 @@ WORKDIR /user/app/
 
 EXPOSE 9090
 
-ENTRYPOINT ["java", "-jar". "proj22.jar"]
+ENTRYPOINT ["java", "-jar", "proj22.jar"]
